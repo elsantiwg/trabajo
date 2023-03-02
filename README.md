@@ -1,4 +1,5 @@
 # trabajo
 trabajo hecho por 
-kevin prieto
-juan barbosa 
+kevin prieto/
+juan barbosa /
+sebastian
